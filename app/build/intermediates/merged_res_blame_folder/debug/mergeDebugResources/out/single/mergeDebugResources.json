@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_icon_person_24.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\icon_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_icon_security.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\icon_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_btn_register.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\btn_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_android_bg.jpg.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\android_bg.jpg"
+    },
+    {
+        "merged": "com.example.baitap3_loginregister.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.baitap3_loginregister.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_fb.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\fb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_gg.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\gg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_icon_email_24.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\icon_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\drawable_input_bg.xml.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\drawable\\input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nguye\\.gradle\\daemon\\8.7\\com.example.baitap3_loginregister.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]
